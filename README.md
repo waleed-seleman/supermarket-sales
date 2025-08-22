@@ -7,7 +7,7 @@ Designed for executives to monitor KPIs, identify trends, and make data-driven d
 
 ## 📸 Dashboard Preview  
 
-![Sales 1](images/sales 1.png)
+!(images/sales 1.png)
 
 ![Sales 2](images/sales 2.png)
 
